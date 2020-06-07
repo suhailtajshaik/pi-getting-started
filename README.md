@@ -19,9 +19,9 @@
     touch wpa_supplicant.conf
     ```
  
-6. Edit file `` 
+6. Edit file `wpa_supplicant.conf` 
    ```bash
-    country=ie
+    country=US
     update_config=1
     ctrl_interface=/var/run/wpa_supplicant
 
